@@ -1,4 +1,45 @@
-### Hi there 👋
+# Hello World
+
+Hi Nice to meet you, i am Catur Andi Pamungkas
+
+I'm a software engineer based in Indonesia the great archipelagos 🇮🇩 with 6 years of experience in architecture design, engineering, and programming.
+
+# ☎️ Contact information
+
+📧 catur.andi.pamungkas@gmail.com
+
+
+---
+
+## 💻 Skills
+
+### PHP Laravel ⭐️⭐️⭐️⭐️⭐️
+
+### Javascript ⭐️⭐️⭐️⭐️⭐️
+
+### Vue.JS ⭐️⭐️⭐️⭐️⭐️
+
+### Alpine.JS ⭐️⭐️⭐️⭐️⭐️
+
+### etc.
+
+---
+
+## 🗣 Languages
+
+### Indonesian 🇮🇩
+
+### Malaysian 🇲🇾
+
+### English 🇬🇧
+
+---
+
+# 📜 Publications
+
+- [E-book] Belajar AlpineJS v3 Untuk Membangun Interaksi Website yang Reaktif
+
+---
 
 <!--
 **caturandi-labs/caturandi-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
