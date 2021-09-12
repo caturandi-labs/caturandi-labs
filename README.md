@@ -8,34 +8,33 @@ I'm a software engineer based in Indonesia the great archipelagos 🇮🇩 with 
 
 📧 catur.andi.pamungkas@gmail.com
 
+---
+
+### 💻 Skills
+
+PHP Laravel ⭐️⭐️⭐️⭐️⭐️
+
+Javascript ⭐️⭐️⭐️⭐️⭐️
+
+Vue.JS ⭐️⭐️⭐️⭐️⭐️
+
+Alpine.JS ⭐️⭐️⭐️⭐️⭐️
+
+etc.
 
 ---
 
-## 💻 Skills
+### 🗣 Languages
 
-### PHP Laravel ⭐️⭐️⭐️⭐️⭐️
+#### Indonesian 🇮🇩
 
-### Javascript ⭐️⭐️⭐️⭐️⭐️
+#### Malaysian 🇲🇾
 
-### Vue.JS ⭐️⭐️⭐️⭐️⭐️
-
-### Alpine.JS ⭐️⭐️⭐️⭐️⭐️
-
-### etc.
+#### English 🇬🇧
 
 ---
 
-## 🗣 Languages
-
-### Indonesian 🇮🇩
-
-### Malaysian 🇲🇾
-
-### English 🇬🇧
-
----
-
-# 📜 Publications
+### 📜 Publications
 
 - [E-book] Belajar AlpineJS v3 Untuk Membangun Interaksi Website yang Reaktif
 
