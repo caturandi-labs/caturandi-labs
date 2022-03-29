@@ -22,6 +22,8 @@ Javascript ⭐️⭐️⭐️⭐️⭐️
 
 Vue.JS ⭐️⭐️⭐️⭐️⭐️
 
+React.JS ⭐️⭐️⭐️⭐️⭐️
+
 Alpine.JS ⭐️⭐️⭐️⭐️⭐️
 
 etc.
