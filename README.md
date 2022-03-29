@@ -18,6 +18,8 @@ I'm a software engineer based in Indonesia the great archipelagos 🇮🇩 with 
 
 PHP Laravel ⭐️⭐️⭐️⭐️⭐️
 
+Docker & K8s ⭐️⭐️⭐️⭐️⭐️
+
 Javascript ⭐️⭐️⭐️⭐️⭐️
 
 Vue.JS ⭐️⭐️⭐️⭐️⭐️
