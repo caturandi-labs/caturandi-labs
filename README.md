@@ -4,8 +4,7 @@ Hi Nice to meet you, i am Catur Andi Pamungkas
 
 I'm a software engineer based in Indonesia the great archipelagos 🇮🇩 with 6 years of experience in architecture design, engineering, and programming.
 
-- 🔭 I’m currently working on GRTech Sdn. Bhd 
-- ⚡ Fun fact: Productive Developer 😜
+- 🔭 I’m currently working at GRTech Sdn. Bhd 
 
 
 ### ☎️ Contact information
