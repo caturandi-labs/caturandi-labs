@@ -40,6 +40,7 @@ etc.
 - Macbook Pro 13" 2019
 - MSI Katana GF66 11UD
 - VOYAGER68 Lightyear Mechanical Keyboard
+- Logitech MX Master 3
 ---
 
 ### 🗣 Languages
