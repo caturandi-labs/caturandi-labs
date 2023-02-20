@@ -36,10 +36,10 @@ etc.
 
 ### 💻 My Machines
 
-Macbook Pro 14" M1 Pro
-Macbook Pro 13" 2019
-MSI Katana GF66 11UD
-VOYAGER68 Lightyear Mechanical Keyboard
+- Macbook Pro 14" M1 Pro
+- Macbook Pro 13" 2019
+- MSI Katana GF66 11UD
+- VOYAGER68 Lightyear Mechanical Keyboard
 ---
 
 ### 🗣 Languages
