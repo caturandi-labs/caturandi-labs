@@ -15,19 +15,23 @@ I'm a software engineer based in Indonesia the great archipelagos 🇮🇩 with 
 
 ### 💻 Skills
 
-PHP Laravel ⭐️⭐️⭐️⭐️⭐️
+PHP Laravel
 
-Docker & K8s ⭐️⭐️⭐️⭐️⭐️
+GOlang
 
-Javascript ⭐️⭐️⭐️⭐️⭐️
+Docker & K8s 
 
-Vue.JS ⭐️⭐️⭐️⭐️⭐️
+Javascript 
 
-React.JS ⭐️⭐️⭐️⭐️⭐️
+Vue.JS 
 
-Alpine.JS ⭐️⭐️⭐️⭐️⭐️
+React.JS
 
-Blockchain Solidity ⭐️⭐️⭐️⭐️
+Alpine.JS 
+
+Blockchain Solidity
+
+DevOps
 
 etc.
 
