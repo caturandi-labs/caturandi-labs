@@ -15,25 +15,29 @@ I'm a software engineer based in Indonesia the great archipelagos 🇮🇩 with 
 
 ### 💻 Skills
 
-PHP Laravel
+- PHP / Laravel
 
-GOlang
+- GOlang
 
-Docker & K8s 
+- Python
 
-Javascript 
+- Docker & K8s 
 
-Vue.JS 
+- TypeScript & Javascript 
 
-React.JS
+- NuxtJS/Vue.JS 
 
-Alpine.JS 
+- NextJS/React.JS
 
-Blockchain Solidity
+- Alpine.JS 
 
-DevOps
+- Blockchain Solidity
+
+- DevOps
 
 etc.
+
+🌱 I’m currently learning Rust, Nim Language, zig language
 
 ---
 
