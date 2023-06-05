@@ -7,6 +7,9 @@ I'm a software engineer based in Indonesia the great archipelagos 🇮🇩 with 
 - 🔭 I’m currently working at GRTech Sdn. Bhd 
 
 
+I Love Fred Perry and I'm a Perry boys collectors
+
+
 ### ☎️ Contact information
 
 📧 catur.andi.pamungkas@gmail.com
