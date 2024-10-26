@@ -20,9 +20,13 @@ I Love Fred Perry and I'm a Perry boys collectors
 
 - PHP / Laravel
 
-- GOlang
+- Golang
 
 - Python
+
+- Node/Bun/Deno
+
+- Hono & ElysiaJS  
 
 - Docker & K8s 
 
