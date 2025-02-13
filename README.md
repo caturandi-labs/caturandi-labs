@@ -2,7 +2,7 @@
 
 Hi Nice to meet you, i am Catur Andi Pamungkas
 
-I'm a software engineer based in Indonesia the great archipelagos 🇮🇩 with 6 years of experience in architecture design, engineering, and programming.
+I'm a software engineer based in Indonesia the great archipelagos 🇮🇩 with 7 years of experience in architecture design, engineering, and programming.
 
 - 🔭 I’m currently working at GRTech Sdn. Bhd 
 
@@ -44,18 +44,10 @@ I Love Fred Perry and I'm a Perry boys collectors
 
 etc.
 
-🌱 I’m currently learning Rust, Nim Language, zig language
+🌱 I’m currently learning Rust, Zig, Serverless
 
 ---
 
-### 💻 My Machines
-
-- Macbook Pro 14" M1 Pro
-- Macbook Pro 13" 2019
-- MSI Katana GF66 11UD
-- VOYAGER68 Lightyear Mechanical Keyboard
-- Logitech MX Master 3
----
 
 ### 🗣 Languages
 
