@@ -2,7 +2,7 @@
 
 Hi Nice to meet you, i am Catur Andi Pamungkas
 
-I'm a software engineer based in Indonesia the great archipelagos 🇮🇩 with 7 years of experience in architecture design, engineering, and programming.
+I'm a software engineer based in Indonesia the great archipelagos 🇮🇩 with years of experience in architecture design, engineering, automating and programming. 
 
 - 🔭 I’m currently working at GRTech Sdn. Bhd 
 
@@ -40,7 +40,7 @@ I Love Fred Perry and I'm a Perry boys collectors
 
 - Blockchain Solidity
 
-- DevOps
+- DevOps / Automation
 
 etc.
 
