@@ -2,7 +2,7 @@
 
 Hi Nice to meet you, i am Catur Andi Pamungkas
 
-I'm a software engineer based in Indonesia the great archipelagos 🇮🇩 with years of experience in architecture design, engineering, automating and programming. 
+Passionate Software Engineer & DevOps Engineer with over 6 years of experience in designing, architecting, and deploying interactive web and mobile applications. Skilled in Laravel, Java, Go, Vue.js, Nuxt, Alpine.js, React.js, and Solidity, with a strong focus on performance, scalability, and clean code. Proficient in Full-Stack Development, both front-end and back-end, and experienced in DevOps automation for CI/CD pipelines and Linux server administration. Known for being a powerful Linux Server Administrator who delivers reliable and secure system environments. Driven by innovation, collaboration, and continuous improvement to build impactful digital solutions that solve real-world problems.
 
 - 🔭 I’m currently working at GRTech Sdn. Bhd 
 
