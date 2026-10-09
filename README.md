@@ -7,7 +7,7 @@ Passionate Software Engineer & DevOps Engineer with over 6 years of experience i
 - 🔭 I’m currently working at GRTech Sdn. Bhd 
 
 
-I Love Fred Perry and I'm a Perry boys collectors
+I Love Fred Perry & Archive Fashion
 
 
 ### ☎️ Contact information
